@@ -45,3 +45,5 @@ kevgar|kgardn15|Kevin_Gardner
 Macbrine|mmacneil|Matthew_MacNeil
 paineleffler|pleffler|Paine_Leffler
 ztrzil|ztrzil|Zachary_Trzil
+bobzap66|ngreen11|Nick Greene
+dmagsby|dmagsby|Daphne_Magsby
