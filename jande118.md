@@ -1,0 +1,1 @@
+My name is Jonathan Anderson and I'm a senior in Statistics and Math. My interests are econometrics (essentially applying statistics to econ models) and looking at how Twitter bit campaignsu unfold(fake news, astroturfing, etc).
