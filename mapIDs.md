@@ -17,7 +17,6 @@ KirstenD|kdawes|Kirsten_Dawes
 jtliso|gliso|J.T._Liso
 DanielRLowe|dlowe7|Daniel_Lowe
 ColonelCthulu|ahranov|Axel_Hranov.
-Mertyton|tricha32|Taylor_Richardson
 JKMiller|jmill225|Jacob_Miller
 yli137|yli137|Yicheng
 friend|bfriend2|Brian Friend
@@ -47,3 +46,5 @@ paineleffler|pleffler|Paine_Leffler
 ztrzil|ztrzil|Zachary_Trzil
 bobzap66|ngreen11|Nick Greene
 dmagsby|dmagsby|Daphne_Magsby
+KhaosMuffins|knewsome|Kolby_Newsome
+gjones1911|gjones2|Gerald_Jones
