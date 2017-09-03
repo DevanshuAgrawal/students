@@ -1,0 +1,1 @@
+My name is Jonathan Anderson and I'm a senior in Statistics and Math. My interests are econometrics (essentially applying statistics to economic models), and I'd like to learn a bit about how social media is influenced by "bot" campaigns (fake news, astroturfing, etc).
